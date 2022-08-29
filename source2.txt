@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://github.com/Perkyscared/test6/blob/main/frames.txt?raw=true") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/Perkyscared/test7/main/frames.txt") -- prerendered amongus video
 
 function update(text)
     local args = {
