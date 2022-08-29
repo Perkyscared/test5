@@ -97,3 +97,4 @@ for fhnrteyrtnhi,line in pairs(splitteddata) do
        task.wait(.03)
    end
 end
+ 
